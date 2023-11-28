@@ -13,3 +13,6 @@ N/A
 # Screenshot
 
 ![image](https://github.com/ferewar/weather-dashboard/assets/73423237/6c816de0-861f-4d34-be24-9d4a99b237f8)
+
+# Link to the deployed application
+https://ferewar.github.io/weather-dashboard/
